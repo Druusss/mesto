@@ -1,0 +1,9 @@
+.elements__block {
+  max-width: 282px;
+  border-radius: 10px;
+  background-color: white;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
