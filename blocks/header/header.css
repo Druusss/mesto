@@ -9,3 +9,10 @@
     margin-top: 28px;
   }
 }
+
+@media screen and (max-width: 915px) {
+  .header {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
